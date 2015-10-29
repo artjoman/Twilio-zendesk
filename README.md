@@ -1,6 +1,7 @@
 # Twilio / Zendesk Integration Example
 
-Copyright (c) 2011 D. Keith Casey Jr. "caseysoftware"
+Copyright (c) 2011 D. Keith Casey Jr. "caseysoftware" 
+
 Copyright (c) 2015 Artjoms Petrovs    "ArtyCo" Updated to work with Twilio and Zendesk APIv2
 
 If you find this code useful, please let me know.
